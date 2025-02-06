@@ -119,7 +119,7 @@ namespace DesignPattern.Behavioral
 
     public class Interpreter
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             // Test above classes
             var context = new LogicExpressionContext();
@@ -150,6 +150,6 @@ namespace DesignPattern.Behavioral
             Console.WriteLine("\nEvaluating: NOT (A OR B)");
             bool notResult = notExpression.Interpret(context);
             Console.WriteLine($"Result: {notResult}"); // Output: False
-        }
+        }*/
     }
 }
