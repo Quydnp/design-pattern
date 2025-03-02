@@ -102,7 +102,7 @@
 
     public class Memento
     {
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             var hero = new Character("hero", 100, 50, "Sword");
             var saveManager = new GameSaveManager();
@@ -142,6 +142,6 @@
             Console.WriteLine("\nRedo:");
             saveManager.Redo(hero);
             hero.ShowStatus();
-        }
+        }*/
     }
 }
