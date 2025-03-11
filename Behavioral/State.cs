@@ -220,7 +220,7 @@
 
     public class State
     {
-        public static void Main()
+        /*public static void Main()
         {
             // encoding utf8
             Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -234,6 +234,6 @@
             vendingMachine.PressButton();
             vendingMachine.PressButton();
             vendingMachine.PressButton();
-        }
+        }*/
     }
 }
